@@ -1,0 +1,15 @@
+C:\Users\marko\source\repos\Lab_3_Task_2\Lab_3_Task_2\obj\Debug\net7.0\Lab_3_Task_2.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\Lab_3_Task_2\Lab_3_Task_2\obj\Debug\net7.0\Lab_3_Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\source\repos\Lab_3_Task_2\Lab_3_Task_2\obj\Debug\net7.0\Lab_3_Task_2.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\Lab_3_Task_2\Lab_3_Task_2\obj\Debug\net7.0\Lab_3_Task_2.AssemblyInfo.cs
+C:\Users\marko\source\repos\Lab_3_Task_2\Lab_3_Task_2\obj\Debug\net7.0\Lab_3_Task_2.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\Lab_3_Task_2\Lab_3_Task_2\bin\Debug\net7.0\Lab_3_Task_2.exe
+C:\Users\marko\source\repos\Lab_3_Task_2\Lab_3_Task_2\bin\Debug\net7.0\Lab_3_Task_2.deps.json
+C:\Users\marko\source\repos\Lab_3_Task_2\Lab_3_Task_2\bin\Debug\net7.0\Lab_3_Task_2.runtimeconfig.json
+C:\Users\marko\source\repos\Lab_3_Task_2\Lab_3_Task_2\bin\Debug\net7.0\Lab_3_Task_2.dll
+C:\Users\marko\source\repos\Lab_3_Task_2\Lab_3_Task_2\bin\Debug\net7.0\Lab_3_Task_2.pdb
+C:\Users\marko\source\repos\Lab_3_Task_2\Lab_3_Task_2\obj\Debug\net7.0\Lab_3_Task_2.dll
+C:\Users\marko\source\repos\Lab_3_Task_2\Lab_3_Task_2\obj\Debug\net7.0\refint\Lab_3_Task_2.dll
+C:\Users\marko\source\repos\Lab_3_Task_2\Lab_3_Task_2\obj\Debug\net7.0\Lab_3_Task_2.pdb
+C:\Users\marko\source\repos\Lab_3_Task_2\Lab_3_Task_2\obj\Debug\net7.0\Lab_3_Task_2.genruntimeconfig.cache
+C:\Users\marko\source\repos\Lab_3_Task_2\Lab_3_Task_2\obj\Debug\net7.0\ref\Lab_3_Task_2.dll
